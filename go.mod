@@ -1,4 +1,4 @@
-module EnclaveSoftware/PubServerTest
+module github.com/EnclaveSoftware/PubServerTest
 
 go 1.14
 
